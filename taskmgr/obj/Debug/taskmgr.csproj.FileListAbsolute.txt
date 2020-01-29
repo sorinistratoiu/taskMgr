@@ -1,0 +1,8 @@
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\obj\Debug\taskmgr.csprojResolveAssemblyReference.cache
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\obj\Debug\taskmgr.MainForm.resources
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\obj\Debug\taskmgr.csproj.GenerateResource.Cache
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\bin\Debug\taskmgr.exe.config
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\bin\Debug\taskmgr.exe
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\bin\Debug\taskmgr.pdb
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\obj\Debug\taskmgr.exe
+C:\Users\Moloz\Documents\SharpDevelop Projects\taskmgr\taskmgr\obj\Debug\taskmgr.pdb
